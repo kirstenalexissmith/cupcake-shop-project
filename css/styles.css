@@ -1,0 +1,20 @@
+h1 {
+  color:rgba(243, 88, 113, 0.768);
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+  ;}
+  h2 {
+    color:rgba(242, 133, 151, 0.643);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  p {
+    color: rgba(255, 194, 80, 0.922);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .flashy {
+    color:red;
+    font-style:italic
+  }
+  #best {
+    color: rgb(230, 117, 228);
+    font-size: larger;
+  }
